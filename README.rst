@@ -1,7 +1,7 @@
 ===============
 python training
 ===============
-
+test
 
 
 .. image:: https://pyup.io/repos/github/dews/python_training/shield.svg
